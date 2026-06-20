@@ -1,0 +1,22 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="37" fill="#0a0a0a"/>
+  <!-- Outer glow ring -->
+  <circle cx="90" cy="90" r="70" stroke="url(#gradient1)" stroke-width="3" fill="none" opacity="0.8"/>
+  <!-- Inner fractured globe -->
+  <circle cx="90" cy="90" r="50" stroke="#00F0FF" stroke-width="2" fill="none" opacity="0.6"/>
+  <!-- Fracture lines -->
+  <path d="M90 40 L75 90 L90 140" stroke="#FF006E" stroke-width="2" fill="none" opacity="0.8"/>
+  <path d="M50 70 L90 90 L130 70" stroke="#00FF9C" stroke-width="2" fill="none" opacity="0.8"/>
+  <path d="M50 110 L90 90 L130 110" stroke="#8338EC" stroke-width="2" fill="none" opacity="0.8"/>
+  <!-- Center dot -->
+  <circle cx="90" cy="90" r="8" fill="#00F0FF"/>
+  <!-- FW Text -->
+  <text x="90" y="165" text-anchor="middle" fill="#00F0FF" font-family="monospace" font-size="16" font-weight="bold">FW</text>
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#FF006E"/>
+      <stop offset="100%" stop-color="#00FF9C"/>
+    </linearGradient>
+  </defs>
+</svg>
