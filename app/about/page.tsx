@@ -44,7 +44,7 @@ export default function AboutPage() {
                                 About
                             </h1>
                             <p className="text-xs font-mono text-purple-500/60 uppercase tracking-widest">
-                                Fractured World Simulator
+                                Phoenix Simulator
                             </p>
                         </div>
                     </div>
@@ -60,7 +60,7 @@ export default function AboutPage() {
                     className="text-center mb-16"
                 >
                     <h2 className="text-5xl font-black font-orbitron text-white uppercase tracking-tight mb-6">
-                        Fractured <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">World</span>
+                        PHOE<span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400">NIX</span>
                     </h2>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
                         An interactive geopolitical collapse simulator that models cascading instability,

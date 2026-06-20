@@ -112,7 +112,7 @@ export function useAIVoice() {
     }, [isSupported, isEnabled])
 
     const speakWelcome = useCallback(() => {
-        speak("Welcome to Fractured World. Simulation systems are now active. Please specify your geopolitical anchor to begin.", "urgent")
+        speak("Welcome to Phoenix. Simulation systems are now active. Please specify your geopolitical anchor to begin.", "urgent")
     }, [speak])
 
     const speakHiddenNews = useCallback(() => {

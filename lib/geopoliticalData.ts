@@ -1,5 +1,5 @@
 /**
- * Geopolitical Data Model for Fractured World Simulation
+ * Geopolitical Data Model for Phoenix Simulation
  * 
  * This file contains comprehensive data structures representing:
  * - 12 Country entities with real geopolitical properties

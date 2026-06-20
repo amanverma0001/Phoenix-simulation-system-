@@ -94,13 +94,13 @@ export class ScreenshotSystem {
         }
     }
 
-    async shareOnSocial(blob: Blob, caption: string = 'Check out this geopolitical simulation! #FracturedWorld'): Promise<boolean> {
+    async shareOnSocial(blob: Blob, caption: string = 'Check out this geopolitical simulation! #Phoenix'): Promise<boolean> {
         try {
-            const file = new File([blob], 'fractured-world.png', { type: 'image/png' });
+            const file = new File([blob], 'phoenix.png', { type: 'image/png' });
 
             if (navigator.share && navigator.canShare({ files: [file] })) {
                 await navigator.share({
-                    title: 'Fractured World Simulation',
+                    title: 'Phoenix Simulation',
                     text: caption,
                     files: [file]
                 });
@@ -128,7 +128,7 @@ export class ScreenshotSystem {
         }
     }
 
-    downloadImage(blob: Blob, filename: string = 'fractured-world.png') {
+    downloadImage(blob: Blob, filename: string = 'phoenix.png') {
         const url = URL.createObjectURL(blob);
         const link = document.createElement('a');
         link.href = url;

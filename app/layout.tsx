@@ -20,7 +20,7 @@ const rajdhani = Rajdhani({
 })
 
 export const metadata: Metadata = {
-  title: "Fractured World | Geopolitical Collapse Simulator",
+  title: "PHOENIX | Geopolitical Collapse Simulator",
   description:
     "Interactive cyberpunk geopolitical collapse simulator. Watch system stability crumble and discover emergent winners and losers.",
   icons: {

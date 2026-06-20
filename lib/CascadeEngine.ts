@@ -1,5 +1,5 @@
 /**
- * CascadeEngine - Core Simulation Engine for Fractured World
+ * CascadeEngine - Core Simulation Engine for Phoenix
  */
 
 import {

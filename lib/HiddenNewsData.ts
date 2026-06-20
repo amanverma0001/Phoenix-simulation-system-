@@ -14,7 +14,7 @@ export const hiddenNews = [
     "Simulation note: Stability is not a static state, but a dynamic equilibrium requiring constant intervention.",
     "Analysis: The 'Thucydides Trap' describes the structural stress when a rising power nears a ruling power.",
     "Observation: Energy independence is the ultimate shield against cascading geopolitical instability.",
-    "Strategy tip: In the fractured world, today's beneficiary can become tomorrow's victim in a single cycle.",
+    "Strategy tip: In the Phoenix simulation, today's beneficiary can become tomorrow's victim in a single cycle.",
     "Intelligence: Satellite imagery detects unusual activity in the energy network layer across Central Europe.",
     "Fact: The world's busiest shipping lane, the Strait of Malacca, handles 25% of all traded goods.",
     "Warning: Digital sovereignty is becoming as critical as physical borders in the current simulation phase.",

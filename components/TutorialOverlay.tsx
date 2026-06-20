@@ -16,7 +16,7 @@ interface TutorialStep {
 const TUTORIAL_STEPS: TutorialStep[] = [
     {
         id: 'welcome',
-        title: 'Welcome to Fractured World',
+        title: 'Welcome to Phoenix',
         description: 'You\'re about to see what happens when political maps... fracture. Every action has consequences that ripple across the globe.',
         position: 'center'
     },

@@ -44,7 +44,7 @@ function AnimatedCounter({ value, suffix = "" }: { value: string; suffix?: strin
 
 export default function LandingPage() {
     const [mounted, setMounted] = useState(false)
-    const [glitchText, setGlitchText] = useState("FRACTURED WORLD")
+    const [glitchText, setGlitchText] = useState("PHOENIX")
     const { scrollYProgress } = useScroll()
     const mouseX = useMotionValue(0)
     const mouseY = useMotionValue(0)
@@ -71,7 +71,7 @@ export default function LandingPage() {
         setMounted(true)
 
         const glitchChars = "!@#$%^&*()_+-=[]{}|;:,.<>?"
-        const originalText = "FRACTURED WORLD"
+        const originalText = "PHOENIX"
 
         const interval = setInterval(() => {
             if (Math.random() > 0.85) {
@@ -459,7 +459,7 @@ export default function LandingPage() {
             <footer className="relative py-12 px-6 border-t border-white/5 z-10">
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
                     <p className="text-sm font-mono text-gray-600">
-                        © 2026 Fractured World Simulator
+                        © 2026 Phoenix Simulator
                     </p>
                     <div className="flex items-center gap-6 text-[10px] font-mono text-gray-600 uppercase tracking-widest">
                         <span>System Collapse Hackathon</span>

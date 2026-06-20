@@ -193,7 +193,7 @@ export default function LoadingScreen({ onLoadComplete }: LoadingScreenProps) {
               }}
               transition={{ duration: 0.15, repeat: Infinity }}
             >
-              <h1 className="text-[12vw] font-black tracking-tighter text-cyan-500">FRACTURED</h1>
+              <h1 className="text-[12vw] font-black tracking-tighter text-cyan-500">PHOENIX</h1>
             </motion.div>
 
             <div className="relative mb-6">
@@ -203,12 +203,8 @@ export default function LoadingScreen({ onLoadComplete }: LoadingScreenProps) {
                 animate={{ scale: 1, filter: 'blur(0px)', y: 0 }}
                 transition={{ duration: 0.8, type: "spring", damping: 15 }}
               >
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-cyan-300 to-white">
-                  FRACTURED
-                </span>
-                <br />
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500">
-                  WORLD
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-cyan-300 to-pink-500">
+                  PHOENIX
                 </span>
               </motion.h1>
 

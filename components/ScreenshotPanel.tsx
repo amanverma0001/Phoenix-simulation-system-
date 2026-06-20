@@ -57,7 +57,7 @@ export default function ScreenshotPanel({ currentState }: ScreenshotPanelProps) 
     const download = () => {
         if (!lastScreenshot) return;
         const timestamp = new Date().toISOString().slice(0, 19).replace(/:/g, '-');
-        screenshotSystem.downloadImage(lastScreenshot, `fractured-world-${timestamp}.png`);
+        screenshotSystem.downloadImage(lastScreenshot, `phoenix-${timestamp}.png`);
         showNotification('💾 Downloaded!');
     };
 

@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  🌍 FRACTURED WORLD
+  🌍 PHOENIX
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## 📖 Description
 
-**Fractured World** is a cutting-edge geopolitical simulation platform that models cascading instability across interconnected global systems. Built for the **System Collapse Hackathon (Theme: Emergence on Collapse)**, this simulator explores how economic sanctions, military tensions, and diplomatic crises propagate through complex networks of nations, revealing surprising winners and losers as order gives way to chaos.
+**Phoenix** is a cutting-edge geopolitical simulation platform that models cascading instability across interconnected global systems. Built for the **System Collapse Hackathon (Theme: Emergence on Collapse)**, this simulator explores how economic sanctions, military tensions, and diplomatic crises propagate through complex networks of nations, revealing surprising winners and losers as order gives way to chaos.
 
 The platform features:
 - 🌐 **Interactive 3D Globe** with real geopolitical data and relationships
@@ -232,7 +232,7 @@ simulator/
  
  > *"Systems where rules drift, chaos emerges, and order collapses in beautiful ways—and from that collapse, better things arise."*
  
- ### How Fractured World Embodies "Emergence on Collapse"
+ ### How Phoenix Embodies "Emergence on Collapse"
 
 1. **Deterministic Chaos**: Small perturbations cascade into massive systemic changes
 2. **Emergent Behavior**: Winners and losers emerge unpredictably from complex interactions
@@ -298,7 +298,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <p align="center">
   <strong>Built with 💔 for a world on the brink</strong><br/>
-  <em>© 2026 Fractured World Simulator</em>
+  <em>© 2026 Phoenix Simulator</em>
 </p>
 
 <p align="center">

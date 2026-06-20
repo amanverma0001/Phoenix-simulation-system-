@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the Fractured World Simulator.
+All notable changes to the Phoenix Simulator.
 
 ## [1.0.0] - 2026-01-31 (Hackathon Release)
 
