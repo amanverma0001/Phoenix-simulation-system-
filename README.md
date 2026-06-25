@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  🌍 PHOENIX
+  🌍 PHOENIX.
 </h1>
 
 <p align="center">
